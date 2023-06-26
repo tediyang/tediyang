@@ -47,8 +47,8 @@
 <p>
   <img alt="VueJS" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="C/C++" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit-learn%20-%2300599C.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="ScikitLearn" src="https://img.shields.io/badge/scikitlearn%20-%2300599C.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/tensorflow%20-%2300599C.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 <h5>Frameworks</h5>
