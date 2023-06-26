@@ -8,7 +8,7 @@
    <a href="https://wa.me/+2348125402403">
     <img src="https://img.shields.io/badge/Whatsapp-orange?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-   <a href="https://wa.me/+2348125402403">
+   <a href="https://leetcode.com/Tediyang">
     <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
 </div>
@@ -35,7 +35,7 @@
    <a href="https://wa.me/+2348125402403">
     <img src="https://img.shields.io/badge/Whatsapp-orange?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://wa.me/+2348125402403">
+   <a href="https://leetcode.com/Tediyang">
     <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>&nbsp;&nbsp;&nbsp;
 </p>
