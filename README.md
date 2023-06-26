@@ -112,16 +112,6 @@ I am a Full Stack Software and Machine Learning Engineer <img src="https://media
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tediyang&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-📈 my github stats
-<div>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tediyang&show_icons=true&theme=gotham" alt="Eyang" />
-  </div>
-
 
 <!--
 **tediyang/tediyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
