@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/eyang-daniel-b6918a1a2">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://t.me/Codes_Reaper">
+   <a href="https://t.me/+2347064618847">
     <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
    <a href="https://wa.me/+2348125402403">
@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/eyang-daniel-b6918a1a2">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://t.me/Codes_Reaper">
+   <a href="https://t.me/+2347064618847">
     <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>&nbsp;&nbsp;&nbsp;
    <a href="https://wa.me/+2348125402403">
