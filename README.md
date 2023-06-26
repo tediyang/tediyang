@@ -24,7 +24,7 @@
   we can achieve with them.
 </p>
 
-<h4>Connect With Me</h4>
+<h4>How to reach me</h4>
 <p align='center'>
   <a href="https://www.linkedin.com/in/eyang-daniel-b6918a1a2">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -76,8 +76,8 @@
   <summary>:wrench:&nbsp;&nbsp;&nbsp;<b>Github Stats</b></summary>
   <br/>
   <p align='center'>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=@Tediyang&show_icons=true&count_private=true&theme=dark" width="355"></a>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=@Tediyang&layout=compact&theme=dark&hide=jupyter%20notebook" width="350"></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Tediyang&show_icons=true&count_private=true&theme=dark" width="355"></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tediyang&layout=compact&theme=dark&hide=jupyter%20notebook" width="350"></a>
    </p>  
 </details>
 
@@ -103,7 +103,6 @@
 I am a Full Stack Software and Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
 
-
 - :zap: I love PYTHON, TRUST ME :).
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -114,7 +113,6 @@ I am a Full Stack Software and Machine Learning Engineer <img src="https://media
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EyangDaniel&theme=vue-dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tediyang&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
