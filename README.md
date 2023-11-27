@@ -42,7 +42,7 @@
 
 <h5>Skills</h5>
 <p>
-  <img alt="VueJS" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="ReactJS" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="ScikitLearn" src="https://img.shields.io/badge/scikitlearn%20-%2300599C.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -50,18 +50,18 @@
 </p>
 <h5>Frameworks</h5>
   <p>
-    <img alt="VueJs" src="https://img.shields.io/badge/vuejs%20-%2300599C.svg?&style=for-the-badge&logo=vuejs&logoColor=white"/>
+    <img alt="ReactJs" src="https://img.shields.io/badge/reactjs%20-%2300599C.svg?&style=for-the-badge&logo=reactjs&logoColor=white"/>
     <img alt="Flask" src="https://img.shields.io/badge/flask%20-%745DF67D.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
     <img alt="WordPress" src="https://img.shields.io/badge/wordpress%20-%745DF67D.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/>
   </p>
 <h5> Databases</h5>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="Postgresql" src="https://img.shields.io/badge/postgresql-%745DF67D.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%745DF67D.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 <h5> Hosting</h5>
 <p>
   <img alt="Netlify" src="https://img.shields.io/badge/netlify%20-%23039BE5.svg?&style=for-the-badge&logo=netlify"/>
-  <img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23323330.svg?&style=for-the-badge&logo=vercel"/>
+  <img alt="Render" src="https://img.shields.io/badge/render%20-%23323330.svg?&style=for-the-badge&logo=render"/>
   <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
 <h5>Version Control</h5>
