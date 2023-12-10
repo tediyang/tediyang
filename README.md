@@ -15,11 +15,23 @@
 
 ####
   <h1 align='center'> Hi there 👋, I'm <strong> Eyang, Daniel Eyoh </strong> </strong> </h1>
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800"/>
 <p> I am a Full Stack Software and Machine Learning Engineer. </p>
 <p>
   For the past few years, I've combined my passion for learning and development, channeled it to Data Science & Software Engineering, and acquired skills that helped me build personalized projects and web applications. I love how ideas come true by typing lines of code, and I take a special liking to RESTFUL APIS and Artificial Intelligence, and how much we can achieve with them.
 </p>
+<h2>What can I do for you?</h2>
+<hr/>
+- API Design and Development: I excel at designing clean, intuitive, and RESTful APIs that facilitate seamless communication between frontend and backend systems. From authentication and authorization to data manipulation and integration, I ensure your APIs are scalable, performant, and future-proof.
+
+- Database Management: I am adept at crafting efficient database schemas, fine-tuning queries, and optimizing data storage for diverse use cases. Whether it's SQL or NoSQL, I have the expertise to work with various database systems, ensuring data integrity and high availability.
+
+- Performance Optimization: I thrive on squeezing every ounce of performance out of systems. By analyzing bottlenecks, optimizing algorithms, and implementing caching strategies, I ensure your applications run at lightning-fast speeds, providing an exceptional user experience.
+
+- Cloud Infrastructure: I am well-versed in cloud platforms like AWS, Azure, and Google Cloud. From deploying applications to managing serverless functions, containerization, and auto-scaling, I leverage the power of the cloud to create scalable and resilient backend architectures.
+
+- Security and Authentication: Protecting your application and user data is my top priority. I implement robust security measures, including secure authentication, authorization frameworks, encryption, and vulnerability scanning to safeguard against threats and ensure compliance.
+
+- Frontend Designs:  Design and implement appealing and responsive user interfaces for web applications.
 
 <h4>How to reach me</h4>
 <p align='center'>
