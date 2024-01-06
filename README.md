@@ -33,8 +33,6 @@
 
 - Security and Authentication: Protecting your application and user data is my top priority. I implement robust security measures, including secure authentication, authorization frameworks, encryption, and vulnerability scanning to safeguard against threats and ensure compliance.
 
-- Frontend Designs:  Design and implement appealing and responsive user interfaces for web applications.
-
 <h4>How to reach me</h4>
 <p align='center'>
   <a href="https://www.linkedin.com/in/eyang-daniel-b6918a1a2">
