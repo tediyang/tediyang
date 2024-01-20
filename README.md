@@ -29,8 +29,6 @@
 
 - Performance Optimization: I thrive on squeezing every ounce of performance out of systems. By analyzing bottlenecks, optimizing algorithms, and implementing caching strategies, I ensure your applications run at lightning-fast speeds, providing an exceptional user experience.
 
-- Cloud Infrastructure: I am well-versed in cloud platforms like AWS, Azure, and Google Cloud. From deploying applications to managing serverless functions, containerization, and auto-scaling, I leverage the power of the cloud to create scalable and resilient backend architectures.
-
 - Security and Authentication: Protecting your application and user data is my top priority. I implement robust security measures, including secure authentication, authorization frameworks, encryption, and vulnerability scanning to safeguard against threats and ensure compliance.
 
 <h4>How to reach me</h4>
