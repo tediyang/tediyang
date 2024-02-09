@@ -19,7 +19,7 @@
 <p>
   For the past few years, I've combined my passion for learning and development, channeled it to Data Science and software Engineering, and acquired skills that helped me build personalized projects and web applications. I love how ideas come true by typing lines of code, and I take a special liking to RESTFUL APIS and Artificial Intelligence, and how much we can achieve with them.
 </p>
-<h2>What I can do for you?</h2>
+<h2>What I can do for you:</h2>
 
 - Web Design and Development: I excel at designing clean and mobile responsive web applications. I also implement standard accessibility rules for web applications using frontend libraries. My Frontend Repo: <a href="https://github.com/Nnamaniajuluchukwu">visit</a>
 
