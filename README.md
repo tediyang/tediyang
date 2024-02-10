@@ -29,7 +29,9 @@
 
 - Performance Optimization: I thrive on squeezing every ounce of performance out of systems. By analyzing bottlenecks, optimizing algorithms, and implementing caching strategies, I ensure your applications run at lightning-fast speeds, providing an exceptional user experience.
 
-- Security and Authentication: Protecting your application and user data is my top priority. I implement robust security measures, including secure authentication, authorization frameworks, encryption, and vulnerability scanning to safeguard against threats and ensure compliance.
+- Security and Authentication: My top priority is protecting your application and user data. I implement robust security measures, including secure authentication, authorization frameworks, encryption, and vulnerability scanning to safeguard against threats and ensure compliance.
+
+- Decentralized Web Application: Build well-secured decentralized applications using nodeJs libraries and frameworks like ethers and hardhat.
 
 <h4>How to reach me</h4>
 <p align='center'>
