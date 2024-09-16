@@ -110,7 +110,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Full Stack Software and Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I am a Full Stack Software and Machine Learning Engineer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
 - :zap: I love PYTHON, TRUST ME :).
